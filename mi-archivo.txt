@@ -1,1 +1,3 @@
+¡Hola feeCodeCamp!
+Estoy aprendiendo Git. Anexo escrito en Merge Editor Result
 ¡Hola, JavaScript!
